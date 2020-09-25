@@ -86,7 +86,7 @@ $user->register_user(array(
 <!DOCTYPE html>
 <html>
 <head>
-<title>ColayGram | Sosmed Untuk Jomblo</title>
+<title>ColayGram | Sosmed Untuk Para Jomblo</title>
 
 <!-- For-Mobile-Apps -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
